@@ -29,3 +29,13 @@ footer {
     padding: 5px;
 }
 
+
+/*Use a CSS selector to change the color of <a> when you hover the cursor over it. */
+
+a:hover {
+    background-color: blue;
+    color: black;
+    text-decoration: none;
+
+}
+
